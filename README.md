@@ -46,4 +46,4 @@ This project was built to demonstrate:
 - **Core Android Skills:** Handling lists, search logic, custom layouts, and navigation.
 
 ---
-Developed with ❤️ by [Prarthana Patil]
+Developed with ❤️ by Chiranthana M J
